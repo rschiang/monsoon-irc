@@ -1,4 +1,4 @@
 monsoon-irc
 ===========
 
-IRC log by [Monsoon](https://github.com/rschiang/monsoon) for #sitcon on <irc.freenode.net>.
+IRC log by [Monsoon](https://github.com/rschiang/monsoon) for #sitcon on freenode IRC.
