@@ -25,4 +25,80 @@
         "user": "RSChiang", 
         "time": "2014-02-23T13:15:49.408066"
     }
+][
+    {
+        "text": "好吧其實是我忘記登入了@@", 
+        "user": "Davy_CC", 
+        "time": "2014-02-23T14:47:29.807518"
+    }, 
+    {
+        "text": "真的喔？", 
+        "user": "RSChiang", 
+        "time": "2014-02-23T14:47:35.009478"
+    }, 
+    {
+        "text": "我有登入還是被踢去去QQ", 
+        "user": "RSChiang", 
+        "time": "2014-02-23T14:47:55.993407"
+    }, 
+    {
+        "text": "什麼真的XD", 
+        "user": "Davy_CC", 
+        "time": "2014-02-23T14:47:56.816289"
+    }, 
+    {
+        "text": "*踢出去", 
+        "user": "RSChiang", 
+        "time": "2014-02-23T14:48:05.272762"
+    }, 
+    {
+        "text": "我是在說 bot XD", 
+        "user": "Davy_CC", 
+        "time": "2014-02-23T14:48:09.718347"
+    }, 
+    {
+        "text": "啊？OAO", 
+        "user": "RSChiang", 
+        "time": "2014-02-23T14:49:01.635586"
+    }, 
+    {
+        "text": "我的 bot 會看 auth username 認主人 不是看 nickname", 
+        "user": "Davy_CC", 
+        "time": "2014-02-23T14:49:34.857632"
+    }, 
+    {
+        "text": "XD", 
+        "user": "Davy_CC", 
+        "time": "2014-02-23T14:49:37.577847"
+    }, 
+    {
+        "text": "原來如此XD 我直接讓bot跟著OP flag判斷，所以一旦有dangling session就科科了XD", 
+        "user": "RSChiang", 
+        "time": "2014-02-23T14:50:21.202300"
+    }, 
+    {
+        "text": "wwww", 
+        "user": "Davy_CC", 
+        "time": "2014-02-23T14:50:46.323071"
+    }, 
+    {
+        "text": "._.", 
+        "user": "freetsubasa", 
+        "time": "2014-02-23T14:50:53.457626"
+    }, 
+    {
+        "text": "因為還沒實做分別 channel 的 OP", 
+        "user": "Davy_CC", 
+        "time": "2014-02-23T14:51:09.738725"
+    }, 
+    {
+        "text": "freetsubasa: 哈囉//", 
+        "user": "RSChiang", 
+        "time": "2014-02-23T14:51:17.501153"
+    }, 
+    {
+        "text": "Davy_CC: 真的喔？python irc 雖然文件超爛但有這功能，雖然頗痛苦...(?", 
+        "user": "RSChiang", 
+        "time": "2014-02-23T14:51:47.526057"
+    }
 ]
